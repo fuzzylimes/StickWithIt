@@ -7,12 +7,8 @@
 			<div class="container">
 				<div class="columns has-text-centered">
 					<div class="column">
-						<p class="title is-1">
-							Svelte-Bulma-Boilerplate
-						</p>
-						<p class="subtitle is-3">
-							Start making something great!
-						</p>
+						<p class="title is-1">Stick With It!</p>
+						<p class="subtitle is-3">Track your daily goals!</p>
 					</div>
 				</div>
 			</div>
